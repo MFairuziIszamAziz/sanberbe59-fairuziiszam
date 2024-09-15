@@ -1,4 +1,4 @@
-url deploy = https://vercel.com/mfairuziiszamazizs-projects/final-project/EviMC4TEu72W8j6snFHHLbwb4R4k
+url deploy = https://vercel.com/mfairuziiszamazizs-projects/sanberbe59-fairuzi/DknseWZF72Uk5zgVJEmEfzcZzykX
 
 Daftar Endpoint :
 
